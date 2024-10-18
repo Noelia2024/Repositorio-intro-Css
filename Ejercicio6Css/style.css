@@ -1,0 +1,46 @@
+#lista{
+    font-size: 30px;
+    font-weight: 200;
+    list-style: none;
+    text-align: center;
+}
+
+.man{
+    color: rgb(255, 0, 0);
+}
+
+.ban{
+    color: rgb(255, 255, 32);
+}
+
+.nar{
+    color: rgb(250, 166, 10);
+}
+
+.kiw{
+    color: rgb(11, 185, 11);
+}
+
+.uv{
+    color: rgb(131, 42, 214);
+}
+
+.cir{
+    color: rgb(80, 17, 138);
+}
+
+.per{
+    color: rgb(158, 211, 12);
+}
+
+.mel{
+    color: rgb(173, 255, 47);
+}
+
+.dur{
+    color: rgb(207, 71, 71);
+}
+
+.fru{
+    color: rgb(231, 29, 29);
+}

@@ -1,0 +1,60 @@
+#título{
+    font-size: 90px;
+    font-weight: 600;
+    text-align: center;
+    font-family: Saira Condensed;
+    color: rgb(19, 19, 189);
+
+}
+
+.datos{
+    font-size: 50px;
+    font-weight: 200;
+    font-family: Saira Condensed;
+    color: rgba(128, 128, 128, 0.815)
+}
+
+.mail{
+    font-family: Saira Condensed;
+    font-size: 40px;
+}
+
+a{
+    text-decoration: none;
+}
+
+.texto{
+    font-size: 40px;
+    font-style: italic;
+}
+
+.texto1{
+    font-size: 40px;
+}
+
+.oración{
+    font-style: italic;
+}
+
+.texto2{
+    font-size: 40px;
+}
+
+.texto3{
+    font-size: 40px;
+    font-style: italic;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+
+.texto4 {
+    font-size: 40px;
+}
+
+.palabra1{
+    font-weight: bold;
+}
+
+.palabra2{
+    font-style: italic;
+}
